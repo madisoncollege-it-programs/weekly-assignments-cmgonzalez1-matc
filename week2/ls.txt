@@ -1,0 +1,7 @@
+filetorevert.txt
+githubexercise.txt
+gitlogafter.txt
+gitlogbefore.txt
+gitrest.txt
+ls.txt
+password.txt
